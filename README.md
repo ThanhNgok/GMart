@@ -1,5 +1,9 @@
 Description: This is a full-featured ecommerce website built with PHP that allows users to browse products, add items to a shopping cart, checkout and make purchases online.
 Technologies: PHP, HTML, CSS, Javascript, Bootstrap 4, My SQL.
+MySQL config: 
+- Admin username: admin@gmail.com
+- Admin password: 123456
+
 
 Client Home Page: 
 ![image](https://github.com/ThanhNgok/GMart/assets/145949812/bb66d1f2-f9b8-4084-954c-b4946f6cf301)
