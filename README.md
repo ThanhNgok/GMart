@@ -1,8 +1,8 @@
 Description: This is a full-featured ecommerce website built with PHP that allows users to browse products, add items to a shopping cart, checkout and make purchases online.
 Technologies: PHP, HTML, CSS, Javascript, Bootstrap 4, My SQL.
 - MySQL config: 
-+ Admin username: admin@gmail.com
-+ Admin password: 123456
+      Admin username: admin@gmail.com
+      Admin password: 123456
 
 - User Interface:
   
